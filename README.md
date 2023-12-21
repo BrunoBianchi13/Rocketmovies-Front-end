@@ -63,15 +63,14 @@ Para clonar e executar esta aplicação, você precisará do [Git](https://git-s
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:BrunoBianchi13/food-explorer.git
+$ git clone git@github.com:BrunoBianchi13/Rocketmovies-Front-end.git
 
 # Entre no repositório
-$ cd food-explorer
+$ cd Rocketmovies-Front-end
 
 # Instale as package.json
 $ npm install
 
-# OBS: para logar como Admin, Email: "Admin" Senha: "123"
 ```
 
 
