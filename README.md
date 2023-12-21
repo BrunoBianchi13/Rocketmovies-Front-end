@@ -77,7 +77,7 @@ $ npm install
 ## 💻 Projeto
 
 
-- [Acesse o projeto completo](https://foodexplorer-api-3zw2.onrender.com)
+- [Acesse o projeto completo](https://github.com/BrunoBianchi13/Rocket-Movies)
 
 
 <p align="center">
